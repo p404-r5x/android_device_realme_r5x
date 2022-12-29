@@ -145,6 +145,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.opengles.version=196610 \
     ro.vendor.display.cabl=0 \
     ro.hardware.vulkan=adreno \
+    ro.config.avoid_gfx_accel=true \
     ro.hardware.egl=adreno \
     vendor.display.disable_skip_validate=1 \
     vendor.gralloc.disable_ubwc=0 \
